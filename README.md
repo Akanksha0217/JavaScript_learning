@@ -28,8 +28,16 @@ I'm updating this repository regularly as I go. Suggestions are always welcome!
 - Learned about conditional statements (`if`, `else if`, `else`, `switch`).
 - Practiced 3 types of loops: `for`, `while`, and `do...while`.
 - Explored basic string methods and operations.
-- Array use and their methods
+- Strings different methods
+- Solve some example
 
+### 🗓️ July 11, 2025
+- Learned the basics of Arrays and how to use them in JavaScript.
+- Used loops (like `for` and `forEach`) to print array items.
+- Practiced common array methods:
+  - `push()`, `pop()`, `shift()`, `unshift()`, `concat()`, and more.
+- Started learning the basics of JavaScript functions.
+  
 ---
 
 
