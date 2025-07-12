@@ -47,3 +47,38 @@ let b=["superman","batman"];
 let heros= marvel_heroes.concat(b)
 console.log(heros)
  
+//splice -change the original aary (startindex, delectcount ,new element)
+a=[1,2,3,4,5,6,7];
+console.log("orignal array a is",a)
+a.splice(2,2,101)
+console.log(a)
+
+ // 1 add element
+b=[7,8,9]
+b.splice(1,0,104)
+console.log(b)
+
+// 2.Delect element
+a.splice(2,1)
+console.log(a)
+
+// 3. replace
+c=[0,1,2,3]
+console.log("orignal array a is",c)
+c.splice(1,1,111)
+console.log("Replace the index one is",c)
+
+
+//forEach function
+let aryy=["pune","delhi"];
+
+aryy.forEach(function printVal(val){
+    console.log(val.toUpperCase());
+})
+
+//filter 
+let d=[1,2,3,4,5,6,7,8,9];
+let newArray=d.filter( (val)=>{
+    return val %2===0; 
+});
+console.log(newArray);
