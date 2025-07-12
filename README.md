@@ -37,7 +37,16 @@ I'm updating this repository regularly as I go. Suggestions are always welcome!
 - Practiced common array methods:
   - `push()`, `pop()`, `shift()`, `unshift()`, `concat()`, and more.
 - Started learning the basics of JavaScript functions.
-  
+
+### 🗓️ July 12, 2025
+- Practiced more array methods for manipulating and processing data.
+- Learned different ways to loop through arrays:
+  - `forEach()`, `map()`
+- Explored JavaScript function concepts:
+  - How to **create**, **call**, and **use** functions
+  - Function **examples**
+  - Introduction to **arrow functions**
+  - Used **filter()** method with arrays and functions
 ---
 
 
