@@ -47,6 +47,10 @@ I'm updating this repository regularly as I go. Suggestions are always welcome!
   - Function **examples**
   - Introduction to **arrow functions**
   - Used **filter()** method with arrays and functions
+
+### 🗓️ July 13, 2025
+- Continued practicing everything learned so far.
+- Used different methods of **strings** and **functions** in various examples.
 ---
 
 
