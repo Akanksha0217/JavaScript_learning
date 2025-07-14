@@ -82,3 +82,23 @@ let newArray=d.filter( (val)=>{
     return val %2===0; 
 });
 console.log(newArray);
+
+// reduce
+let f= [1,2,3,4];
+
+const output=f.reduce((res,curr) =>{
+     return res+ curr;
+});
+console.log(output);
+
+// find largest
+let abc=[4,5,6,7,3,10,4]
+const large=abc.reduce((res,curr) =>{
+     if (res > curr){
+        return res
+     }
+     else{
+        return curr
+     }
+});
+console.log(large);

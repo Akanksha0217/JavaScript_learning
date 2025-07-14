@@ -42,3 +42,11 @@ let array=[1,2,3,4,5];
 array.forEach(function printVal(val){
     console.log(val);
 })
+
+// reduce
+let f= [1,2,3,4];
+
+const output=f.reduce((res,curr) =>{
+     return res+ curr;
+});
+console.log(output);

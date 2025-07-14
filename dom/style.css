@@ -1,0 +1,14 @@
+body{
+    background-color: pink;
+}
+
+h1{
+    color: blue;
+    text-decoration: dotted;
+    background-color: yellow;
+}
+button{
+    color: white;
+    background-color: aqua;
+    padding: 20px;
+}
