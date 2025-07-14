@@ -51,6 +51,12 @@ I'm updating this repository regularly as I go. Suggestions are always welcome!
 ### 🗓️ July 13, 2025
 - Continued practicing everything learned so far.
 - Used different methods of **strings** and **functions** in various examples.
+
+  ### 🗓️ July 14, 2025
+- Practiced `filter()` and `reduce()` methods on arrays.
+- Revisited and used the `map()` method.
+- Learned about the **Window object** in JavaScript.
+- Learned how to correctly **link JavaScript files with HTML** using the `<script>` tag.
 ---
 
 
