@@ -57,6 +57,12 @@ I'm updating this repository regularly as I go. Suggestions are always welcome!
 - Revisited and used the `map()` method.
 - Learned about the **Window object** in JavaScript.
 - Learned how to correctly **link JavaScript files with HTML** using the `<script>` tag.
+
+### 🗓️ July 15, 2025
+- Started learning about the **DOM (Document Object Model)**.
+- Understood the **structure of the DOM** (tree of nodes/elements).
+- Learned how to **access and manipulate DOM elements** using JavaScript.
+
 ---
 
 
