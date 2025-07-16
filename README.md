@@ -63,6 +63,15 @@ I'm updating this repository regularly as I go. Suggestions are always welcome!
 - Understood the **structure of the DOM** (tree of nodes/elements).
 - Learned how to **access and manipulate DOM elements** using JavaScript.
 
+### 🗓️ July 16, 2025
+- Practiced **DOM manipulation** techniques.
+- Learned different ways to **select elements**:
+  - By `id`, `class`, `tag name`, and using `querySelector()`.
+- Worked with **element attributes**:
+  - `getAttribute()`, `setAttribute()`, and `.attributes` property.
+- Explored element **properties** like:
+  - `innerText`, `innerHTML`, and `textContent`.
+
 ---
 
 
