@@ -72,6 +72,16 @@ I'm updating this repository regularly as I go. Suggestions are always welcome!
 - Explored element **properties** like:
   - `innerText`, `innerHTML`, and `textContent`.
 
+### 🗓️ July 17, 2025
+- Practiced more advanced **DOM manipulation** techniques.
+- Solved questions based on DOM element interactions.
+- Explored **element styling** using JavaScript (`.style`).
+- Learned how to **create elements dynamically** and:
+  - `append()`, `prepend()`
+  - `before()`, `after()`
+  - `insertBefore()` and `appendChild()`
+- Used `setAttribute()` and `getAttribute()` for working with element attributes.
+
 ---
 
 
