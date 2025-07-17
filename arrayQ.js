@@ -1,4 +1,4 @@
-// //Q1 FOr a given array witg marks of student [85,97,44,37,76,60] .find average of class
+// //Q1 FOr a given array with marks of student [85,97,44,37,76,60] .find average of class
 
 // let marks=[85,97,44,37,76,60];
 // let sum=0;
@@ -9,7 +9,7 @@
 // let b=console.log(`no.of student in class ${marks.length}`);
 // let avg=(sum /(marks.length));
 // console.log(`Average of class is ${avg}`);
-
+ 
 
 // //Q2 for a given array with prices of 5 items [250,645,300,900,50].All items have an offer of 10% on them. Chnage the array to store final price after applying offer
 // // method1
