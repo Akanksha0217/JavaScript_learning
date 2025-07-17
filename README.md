@@ -52,7 +52,7 @@ I'm updating this repository regularly as I go. Suggestions are always welcome!
 - Continued practicing everything learned so far.
 - Used different methods of **strings** and **functions** in various examples.
 
-  ### 🗓️ July 14, 2025
+### 🗓️ July 14, 2025
 - Practiced `filter()` and `reduce()` methods on arrays.
 - Revisited and used the `map()` method.
 - Learned about the **Window object** in JavaScript.
