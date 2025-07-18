@@ -82,6 +82,16 @@ I'm updating this repository regularly as I go. Suggestions are always welcome!
   - `insertBefore()` and `appendChild()`
 - Used `setAttribute()` and `getAttribute()` for working with element attributes.
 
+### 🗓️ July 18, 2025
+- Learned about **JavaScript events** and how to handle them.
+- Explored the **event object** and different event **types**.
+- Practiced using event types like:
+  - `onclick`, `mouseover`, etc.
+- Understood the difference between:
+  - **Event handlers** (inline or assigned)
+  - **Event listeners** (`addEventListener`)
+- Applied all event concepts to build a **Stone-Paper-Scissors game** using DOM + events.
+
 ---
 
 
