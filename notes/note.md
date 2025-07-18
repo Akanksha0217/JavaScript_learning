@@ -1,4 +1,4 @@
-# 📘 JavaScript Interview Notes (Beginner to Intermediate)
+# 📘 JavaScript Interview Notes 
 
 These are core JavaScript concepts I’ve learned so far, explained clearly for quick interview preparation and revision.
 
