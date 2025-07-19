@@ -92,6 +92,14 @@ I'm updating this repository regularly as I go. Suggestions are always welcome!
   - **Event listeners** (`addEventListener`)
 - Applied all event concepts to build a **Stone-Paper-Scissors game** using DOM + events.
 
+
+### 🗓️ July 19, 2025
+- Continued practicing all concepts learned so far.
+- Focused more on **JavaScript events**:
+  - Practiced using different event types (`click`, `mouseover`, etc.)
+  - Applied `addEventListener()` on various elements
+  - Strengthened understanding of how events interact with the DOM
+
 ---
 
 
