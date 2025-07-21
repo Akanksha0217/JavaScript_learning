@@ -89,6 +89,8 @@ I'm updating this repository regularly as I go. Suggestions are always welcome!
   - `onclick`, `mouseover`, etc.
   - **Event handlers** (inline or assigned)
 - Applied all event concepts to build a **Stone-Paper-Scissors game** using DOM + events.
+- 🔗 Live Demo
+👉 [Play Now](https://stonepaperscissorjs.vercel.app/) 
 
 
 ### 🗓️ July 19, 2025
