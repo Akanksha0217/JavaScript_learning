@@ -113,7 +113,7 @@ I'm updating this repository regularly as I go. Suggestions are always welcome!
    - Forms the foundation of front-end frameworks like:
       - **React**, **Angular**, **Vue**
 
-- Practiced using all **arithmetic** and **logical operators** in small code examples.
+- Start working on new mini project  **Form Validator**
   
 ---
 
