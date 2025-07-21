@@ -87,9 +87,7 @@ I'm updating this repository regularly as I go. Suggestions are always welcome!
 - Explored the **event object** and different event **types**.
 - Practiced using event types like:
   - `onclick`, `mouseover`, etc.
-- Understood the difference between:
   - **Event handlers** (inline or assigned)
-  - **Event listeners** (`addEventListener`)
 - Applied all event concepts to build a **Stone-Paper-Scissors game** using DOM + events.
 
 
@@ -100,6 +98,11 @@ I'm updating this repository regularly as I go. Suggestions are always welcome!
   - Applied `addEventListener()` on various elements
   - Strengthened understanding of how events interact with the DOM
 
+### 🗓️ July 20, 2025
+- Practiced using **event listeners** in JavaScript:
+  - Used `addEventListener()` to attach events to DOM elements
+  - Learned how to use `.addEventListener` with different event types
+  - Explored how to **remove event listeners** using `removeEventListener()`
 ---
 
 
