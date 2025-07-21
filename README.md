@@ -103,6 +103,17 @@ I'm updating this repository regularly as I go. Suggestions are always welcome!
   - Used `addEventListener()` to attach events to DOM elements
   - Learned how to use `.addEventListener` with different event types
   - Explored how to **remove event listeners** using `removeEventListener()`
+ 
+### 🗓️ July 21, 2025
+- 🔍 Importance & Uses of JavaScript
+- Enables **client-side interactivity**, such as:
+  - DOM manipulation
+  - Form validation
+- Plays a major role in **full-stack development** (e.g., with **Node.js**).
+- Forms the foundation of front-end frameworks like:
+  - **React**, **Angular**, **Vue**
+- Practiced using all **arithmetic** and **logical operators** in small code examples.
+  
 ---
 
 
