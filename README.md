@@ -117,7 +117,14 @@ I'm updating this repository regularly as I go. Suggestions are always welcome!
 
 - Start working on new mini project  **Form Validator**
 
-### 🗓️ July 21, 2025
+### 🗓️ July 22, 2025
+
+- 💡 **Working on Mini Project: Form Validator**
+  - Created a simple **HTML form** with input fields.
+  - Added basic **CSS styling** to improve visual appearance.
+  - Planning to apply **JavaScript validation logic** to:
+    - Check for empty fields
+    - Validate email format, password strength, etc.
 ---
 
 
