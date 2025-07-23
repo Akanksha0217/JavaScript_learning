@@ -125,6 +125,17 @@ I'm updating this repository regularly as I go. Suggestions are always welcome!
   - Planning to apply **JavaScript validation logic** to:
     - Check for empty fields
     - Validate email format, password strength, etc.
+
+### 🗓️ July 22, 2025
+
+- 🧠 Solved various **array examples** to strengthen understanding.
+- Learned and practiced array methods:
+  - `sort()`, `delete`, `toString()`
+- 🧩 Explored **destructuring**:
+  - Array destructuring
+  - Object destructuring
+- ⭐ Tried a few **JavaScript star pattern problems** to build logic with loops.
+
 ---
 
 
