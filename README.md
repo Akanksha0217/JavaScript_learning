@@ -126,7 +126,7 @@ I'm updating this repository regularly as I go. Suggestions are always welcome!
     - Check for empty fields
     - Validate email format, password strength, etc.
 
-### 🗓️ July 22, 2025
+### 🗓️ July 23, 2025
 
 - 🧠 Solved various **array examples** to strengthen understanding.
 - Learned and practiced array methods:
@@ -135,7 +135,21 @@ I'm updating this repository regularly as I go. Suggestions are always welcome!
   - Array destructuring
   - Object destructuring
 - ⭐ Tried a few **JavaScript star pattern problems** to build logic with loops.
+- 
+### 🗓️ July 24, 2025
+- 👩‍💻 Practiced creating and using **classes**:
+  - Defined constructors and methods inside classes.
+  - Used `this` keyword and created multiple instances (objects).
+- 🧱 Worked on **objects**:
+  - Added, accessed, and updated properties.
+  - Nested object handling and object methods.
+- 🔄 Practiced working with **arrays**:
+  - Iterated through arrays of objects.
 
+- 🧩 Learned and applied **destructuring**:
+  - Array destructuring
+  - Object destructuring
+  - Nested destructuring
 ---
 
 
