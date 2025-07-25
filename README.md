@@ -150,6 +150,14 @@ I'm updating this repository regularly as I go. Suggestions are always welcome!
   - Array destructuring
   - Object destructuring
   - Nested destructuring
+
+### 🗓️ July 25, 2025
+
+- 🔁 Practiced examples of different **looping and iteration methods**:
+  - `map()` – used for transforming array elements and returning a new array.
+  - `forEach()` – used for performing side effects (e.g., printing) on each array element.
+  - `for...of` – used to iterate over **iterables** like arrays, strings, etc.
+  - `for...in` – used to iterate over **object keys** or enumerable properties.
 ---
 
 
