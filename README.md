@@ -152,12 +152,45 @@ I'm updating this repository regularly as I go. Suggestions are always welcome!
   - Nested destructuring
 
 ### 🗓️ July 25, 2025
-
 - 🔁 Practiced examples of different **looping and iteration methods**:
   - `map()` – used for transforming array elements and returning a new array.
   - `forEach()` – used for performing side effects (e.g., printing) on each array element.
   - `for...of` – used to iterate over **iterables** like arrays, strings, etc.
   - `for...in` – used to iterate over **object keys** or enumerable properties.
+
+ ### 🗓️ July 26, 2025
+- 📦 Practiced working with **arrays of objects**:
+  - Accessed and updated nested values.
+  - Used array methods like `map()`, `filter()` on objects in arrays.
+- ❓ Learned the **difference between `null` and `undefined`**:
+  - `null`: Intentional absence of a value (set by the developer).
+  - `undefined`: A variable declared but not assigned any value.
+- 🔃 Practiced the **`sort()` method**:
+  - Sorted numbers and strings.
+  - Used custom comparator functions for complex sorting.
+- 🔎 Used the **`includes()` method**:
+  - Checked if an element exists in an array or string.
+ 
+### 🗓️ July 27, 2025
+
+- 🔁 **Spread Operator (`...`)**:
+  - Expanded elements of arrays or objects.
+  - Used for copying and merging arrays/objects.
+  - Example: `let newArr = [...oldArr];`
+- 📦 **Rest Parameters**:
+  - Gathered remaining arguments into an array.
+  - Used in functions to handle variable number of arguments.
+  - Example: `function sum(...args) { return args.reduce((a, b) => a + b); }`
+- 📆 **JavaScript Date Object**:
+  - Created date using `new Date()`.
+  - Used methods like:
+    - `getDate()`, `getDay()`, `getFullYear()`, `getMonth()`, `getHours()`, `getMinutes()`, `getTime()`
+- ➕ **Math Object**:
+  - Used methods like:
+    - `Math.floor()`, `Math.ceil()`, `Math.round()`, `Math.random()`, `Math.max()`, `Math.min()`, `Math.abs()`, `Math.pow()`, `Math.sqrt()`
+
+
+
 ---
 
 
