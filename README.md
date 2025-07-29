@@ -200,8 +200,6 @@ I'm updating this repository regularly as I go. Suggestions are always welcome!
   - **Truthy**: Values that evaluate to `true` in a boolean context. Examples: `"text"`, `1`, `true`, `[]`, `{}`
   - **Falsy**: Values that evaluate to `false`. Examples: `0`, `""`, `null`, `undefined`, `false`, `NaN`
 
----
-
 ### 🔄 Practice Examples (Steps Only):
 - 🔁 **Reverse a String – Steps**:
   1. Take a string input.
