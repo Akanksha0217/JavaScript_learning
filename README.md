@@ -181,6 +181,8 @@ I'm updating this repository regularly as I go. Suggestions are always welcome!
   - Gathered remaining arguments into an array.
   - Used in functions to handle variable number of arguments.
   - Example: `function sum(...args) { return args.reduce((a, b) => a + b); }`
+
+### 🗓️ July 28, 2025
 - 📆 **JavaScript Date Object**:
   - Created date using `new Date()`.
   - Used methods like:
@@ -188,6 +190,40 @@ I'm updating this repository regularly as I go. Suggestions are always welcome!
 - ➕ **Math Object**:
   - Used methods like:
     - `Math.floor()`, `Math.ceil()`, `Math.round()`, `Math.random()`, `Math.max()`, `Math.min()`, `Math.abs()`, `Math.pow()`, `Math.sqrt()`
+    
+### 🗓️ July 29, 2025
+- 🔁 **Difference Between Hosting and Hoisting**:
+  - **Hoisting** is a JavaScript behavior where variable and function declarations are moved to the top of their scope before code execution.
+  - **Hosting** refers to web hosting (completely unrelated); it's the process of storing website files on a server.
+  - ✅ Hoisting = JavaScript concept; Hosting = Deployment/server concept.
+- ✅ **Truthy and Falsy Values**:
+  - **Truthy**: Values that evaluate to `true` in a boolean context. Examples: `"text"`, `1`, `true`, `[]`, `{}`
+  - **Falsy**: Values that evaluate to `false`. Examples: `0`, `""`, `null`, `undefined`, `false`, `NaN`
+
+---
+
+### 🔄 Practice Examples (Steps Only):
+- 🔁 **Reverse a String – Steps**:
+  1. Take a string input.
+  2. Break the string into individual characters.
+  3. Reverse the order of the characters.
+  4. Join the characters back into a string.
+  5. Print or return the reversed string.
+     
+- 🔍 **Check for Palindrome – Steps**:
+  1. Take a string input.
+  2. Convert the string to lowercase and remove special characters (if needed).
+  3. Reverse the string using similar steps from the previous task.
+  4. Compare the original and reversed string.
+  5. If they match, it's a palindrome.
+
+- 🔢 **Count Vowels in a String – Steps**:
+  1. Take a string input.
+  2. Convert it to lowercase for uniformity.
+  3. Loop through each character in the string.
+  4. Check if the character is a vowel (`a`, `e`, `i`, `o`, `u`).
+  5. Keep a count of vowels found.
+  6. Print or return the total count.
 
 
 
