@@ -200,6 +200,25 @@ I'm updating this repository regularly as I go. Suggestions are always welcome!
   - **Truthy**: Values that evaluate to `true` in a boolean context. Examples: `"text"`, `1`, `true`, `[]`, `{}`
   - **Falsy**: Values that evaluate to `false`. Examples: `0`, `""`, `null`, `undefined`, `false`, `NaN`
 
+### 🗓️ July 30, 2025
+- 🧠 Continued exploring **JavaScript Form Validation**.
+- 📝 Worked on handling **Checkbox Validation**:
+  - Ensured form **does not submit** if a required checkbox is **not checked**.
+  - Displayed appropriate message prompting users to accept terms or conditions before submission.
+
+  ### 🗓️ July 31, 2025
+- 🧹 Learned about **Garbage Collection** in JavaScript:
+  - JavaScript automatically frees memory that's no longer in use.
+  - Key concepts: Reachability, Memory Management.
+
+- 📝 Worked on a **Form Validation** project:
+  - Validated user inputs using JavaScript.
+  - Added logic to check:
+    - Password length and pattern.
+    - If Password and Confirm Password match.
+  - Provided real-time feedback with error messages.
+
+
 ### 🔄 Practice Examples (Steps Only):
 - 🔁 **Reverse a String – Steps**:
   1. Take a string input.
