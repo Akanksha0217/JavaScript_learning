@@ -206,7 +206,7 @@ I'm updating this repository regularly as I go. Suggestions are always welcome!
   - Ensured form **does not submit** if a required checkbox is **not checked**.
   - Displayed appropriate message prompting users to accept terms or conditions before submission.
 
-  ### 🗓️ July 31, 2025
+### 🗓️ July 31, 2025
 - 🧹 Learned about **Garbage Collection** in JavaScript:
   - JavaScript automatically frees memory that's no longer in use.
   - Key concepts: Reachability, Memory Management.
