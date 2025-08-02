@@ -127,7 +127,6 @@ I'm updating this repository regularly as I go. Suggestions are always welcome!
     - Validate email format, password strength, etc.
 
 ### 🗓️ July 23, 2025
-
 - 🧠 Solved various **array examples** to strengthen understanding.
 - Learned and practiced array methods:
   - `sort()`, `delete`, `toString()`
@@ -219,7 +218,8 @@ I'm updating this repository regularly as I go. Suggestions are always welcome!
   - Provided real-time feedback with error messages.
 
 
-### 🔄 Practice Examples (Steps Only):
+### 🗓️ August 1, 2025
+🔄 Practice Examples (Steps Only):
 - 🔁 **Reverse a String – Steps**:
   1. Take a string input.
   2. Break the string into individual characters.
@@ -241,7 +241,6 @@ I'm updating this repository regularly as I go. Suggestions are always welcome!
   4. Check if the character is a vowel (`a`, `e`, `i`, `o`, `u`).
   5. Keep a count of vowels found.
   6. Print or return the total count.
-
 
 
 ---
