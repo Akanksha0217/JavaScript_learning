@@ -234,6 +234,7 @@ I'm updating this repository regularly as I go. Suggestions are always welcome!
   4. Compare the original and reversed string.
   5. If they match, it's a palindrome.
 
+### 🗓️ August 2, 2025
 - 🔢 **Count Vowels in a String – Steps**:
   1. Take a string input.
   2. Convert it to lowercase for uniformity.
@@ -242,6 +243,24 @@ I'm updating this repository regularly as I go. Suggestions are always welcome!
   5. Keep a count of vowels found.
   6. Print or return the total count.
 
+### 🗓️ August 3, 2025
+- ✅ Practiced solving beginner-level JavaScript problems:
+  - **Count Words in a Sentence**: Split a string by spaces and count the number of resulting words.
+  - **Find Longest Word in a Sentence**: Use string and array methods to identify the longest word.
+  - **Convert Celsius to Fahrenheit**: Applied the formula `F = (C × 9/5) + 32` to convert temperature units.
+  - **Check if a Number is Prime**: Implemented logic to determine whether a number is prime or not.
+
+### 🗓️ August 4, 2025
+- ✅ Solved practical JavaScript problems:
+  - **Remove Duplicates from an Array**: Used logic and methods like `filter()` or `Set` to eliminate duplicate values.
+  - **Capitalize First Letter of Each Word**: Practiced transforming strings by applying string manipulation techniques.
+  - **Generate Fibonacci Sequence**: Generated a sequence using `for` loop or recursion to understand patterns and logic flow.
+
+### 🗓️ August 5, 2025
+- ✅ Continued solving JavaScript logic problems:
+  - **Count Vowels in a String**: Practiced looping and conditional logic to find all vowels (`a, e, i, o, u`) in a given string.
+  - **Sum All Numbers in an Array**: Used loops or the `reduce()` method to add all numeric values in an array.
+  - **Find the Largest Number in an Array**: Applied techniques like `Math.max()`, `reduce()`, or iteration to find the maximum value.
 
 ---
 
