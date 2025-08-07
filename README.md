@@ -262,6 +262,11 @@ I'm updating this repository regularly as I go. Suggestions are always welcome!
   - **Sum All Numbers in an Array**: Used loops or the `reduce()` method to add all numeric values in an array.
   - **Find the Largest Number in an Array**: Applied techniques like `Math.max()`, `reduce()`, or iteration to find the maximum value.
 
+### 🗓️ August 6, 2025
+- read interview question 
+- practices some interview quenstion
+- 
+### 🗓️ August 7, 2025
 ---
 
 
