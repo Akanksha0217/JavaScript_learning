@@ -263,10 +263,11 @@ I'm updating this repository regularly as I go. Suggestions are always welcome!
   - **Find the Largest Number in an Array**: Applied techniques like `Math.max()`, `reduce()`, or iteration to find the maximum value.
 
 ### 🗓️ August 6, 2025
-- read interview question 
-- practices some interview quenstion
-- 
+- 📚 Read and revised common **JavaScript interview questions**.
+- 💡 Practiced solving some **interview-based coding problems** to strengthen understanding.
+
 ### 🗓️ August 7, 2025
+- 📚 Read and revised common **JavaScript interview questions**.
 ---
 
 
