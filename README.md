@@ -267,7 +267,12 @@ I'm updating this repository regularly as I go. Suggestions are always welcome!
 - 💡 Practiced solving some **interview-based coding problems** to strengthen understanding.
 
 ### 🗓️ August 7, 2025
-- 📚 Read and revised common **JavaScript interview questions**.
+- 📚 Revised common **JavaScript interview questions**.
+
+### 🗓️ August 8, 2025
+- 📚 Learned more about **DOM (Document Object Model)**.
+- 🖱️ Created basic examples using `onclick` events.
+- ➕ Practiced appending elements dynamically to the DOM.
 ---
 
 
