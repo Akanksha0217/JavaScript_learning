@@ -275,6 +275,8 @@ I'm updating this repository regularly as I go. Suggestions are always welcome!
 - ➕ Practiced appending elements dynamically to the DOM.
 
 - ### 🗓️ August 9, 2025
+- ### 🗓️ August 10, 2025
+- ### 🗓️ August 11, 2025
 ---
 
 
