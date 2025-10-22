@@ -42,7 +42,7 @@ I'm updating this repository regularly as I go. Suggestions are always welcome!
 - Practiced more array methods for manipulating and processing data.
 - Learned different ways to loop through arrays:
   - `forEach()`, `map()`
-- Explored JavaScript function concepts:
+- Explored JavaScript function concepts: 
   - How to **create**, **call**, and **use** functions
   - Function **examples**
   - Introduction to **arrow functions**
