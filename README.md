@@ -9,6 +9,7 @@ I'm learning the basics step by step, covering topics like:
 - DOM Manipulation
 - Events
 - and more...
+  
 
 I'm updating this repository regularly as I go. Suggestions are always welcome!  
 🧠 I already know Python and OOP concepts, so learning JavaScript is faster and more interesting for me.
