@@ -9,7 +9,7 @@ These are core JavaScript concepts I’ve learned so far, explained clearly for 
 JavaScript is a lightweight, high-level, interpreted programming language.  
 It’s used mainly to **add interactivity** and **dynamism** to websites.  
 It runs in the browser and can interact with the HTML and CSS via the **DOM**.
-
+ 
 ---
 
 ## 🟨 2. console.log()
