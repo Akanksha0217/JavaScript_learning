@@ -5,7 +5,7 @@ This repository contains all my daily practice work while learning JavaScript.
 I'm learning the basics step by step, covering topics like: 
 - Variables
 - Functions  
-- Loops
+- Loops 
 - DOM Manipulation
 - Events
 - and more...
