@@ -3,7 +3,7 @@
 This repository contains all my daily practice work while learning JavaScript.
 
 I'm learning the basics step by step, covering topics like: 
-- Variables
+- Variables 
 - Functions  
 - Loops 
 - DOM Manipulation
