@@ -7,7 +7,7 @@ console.log(array[1]);
 console.log(array[2]);
 
 //  using for loop
-for (ind=0; ind< (array.length);ind++){
+for (ind=0; ind< (array.length);ind++){ 
     console.log(ind);
 }
 
