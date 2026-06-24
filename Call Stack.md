@@ -169,5 +169,11 @@ Understanding call stack is important for learning:
 - Execution Context
 - Event Loop
 - Asynchronous JavaScript
-- Closures
+- Closures 
 - Recursion
+
+
+
+
+
+
